@@ -20,9 +20,9 @@
     <string name="menu_show_options_menu">"Mostrar menú de opciones"</string>
     <string name="menu_backupsettings">"Configuración de Copias de seguridad y Respaldo"</string>
     <string name="menu_crop">"Ajuste manual"</string>
-    <string name="menu_navigation_menu">"Navegación..."</string>
-    <string name="menu_fastsettings_menu">"Ver..."</string>
-    <string name="menu_allsettings_menu">"Ajuster..."</string>
+    <string name="menu_navigation_menu">"Navegación…"</string>
+    <string name="menu_fastsettings_menu">"Ver…"</string>
+    <string name="menu_allsettings_menu">"Ajuster…"</string>
     <string name="menu_show_library">"Mostrar la biblioteca"</string>-->
     <string name="menu_show_recent">"Mostrar recientes"</string>
     <string name="menu_storages">"Almcenamientos"</string>
